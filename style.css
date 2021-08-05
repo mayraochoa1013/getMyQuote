@@ -1,0 +1,28 @@
+
+body{
+  height: 100vh;
+  background-image: url("https://cdn.mos.cms.futurecdn.net/Tw4oCiJrKzJLgHrwMHuRHf.jpg");
+  background-color: #cccccc;
+}
+h1{
+  align-items: center;
+  justify-content: center;
+  font-family: 'Open Sans',sans-serif;
+  font-size: 60px;
+  color: #202020;
+}
+.my-button {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  background-color: white;
+  align-content: center;
+  border: none;
+  color: gray;
+  font-family: 'Open Sans',sans-serif;
+  padding: 15px 32px;
+
+  font-size: 16px;
+}
